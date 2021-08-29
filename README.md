@@ -16,7 +16,7 @@ Credentials
 		User ID - 1
 		Password - admin
 	
-	User
+	Normal User
 		User ID - 2
 		Password - abcdef
 	
