@@ -13,5 +13,5 @@
 
 # Credentials
 * Admin: User Id: 1 , Password: admin
-* Employee: User Id : 2 , Password: xyz
+* Employee: User Id : 2 , Password: abcdef
 	
